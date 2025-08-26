@@ -1,0 +1,14 @@
+Hola, soy Ingeniero Mecatrónico con experiencia como Software Engineer, apasionado por crear tecnología que realmente marque la diferencia. Me encanta aprender, experimentar y mantenerme al día con las tendencias del mercado, porque creo firmemente que la curiosidad es el mejor motor para la innovación.
+En mi camino profesional he trabajado como Software Quality Engineer, diseñando y ejecutando estrategias de prueba para sistemas de todo tipo: desde arquitecturas simples hasta soluciones distribuidas y basadas en eventos. He estado tanto en el Front como en el Back, aplicando automatización de pruebas Funcionales y Performance, CI/CD en marcos Ágiles para asegurar que cada entrega sea de calidad.
+
+Como buen mecatrónico, me gusta “cacharrear” con diferentes tecnologías y aquí va un poco de lo que disfruto:
+
+- Java: mi fiel compañero de viaje (desde programación declarativa hasta reactiva).
+- Python: la culebrita favorita para IA, ML, DL y visión por computador.
+- CAD & 3D Printing: diseño, modelado y un par de creaciones propias con mi impresora 3D.
+- Arduino & C++: porque nunca sobra un buen proyecto de electrónica.
+
+En resumen: soy alguien curioso, orientado al detalle y con la motivación constante de dar siempre mi mejor versión.
+
+Portfolio: https://drive.google.com/drive/u/1/folders/1tMlctHOd7w3VccM8vDXX0ycXyxzLSJaV
+Github: https://github.com/CrisFRC
