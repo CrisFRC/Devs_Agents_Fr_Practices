@@ -1,0 +1,1 @@
+The more convincing side is the opposition to the motion: There is a need to create strict laws to regulate the LLMs.
