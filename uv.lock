@@ -44,6 +44,7 @@ dependencies = [
     { name = "setuptools" },
     { name = "smithery" },
     { name = "speedtest-cli" },
+    { name = "urllib3" },
     { name = "wikipedia" },
 ]
 
@@ -87,6 +88,7 @@ requires-dist = [
     { name = "setuptools", specifier = ">=78.1.0" },
     { name = "smithery", specifier = ">=0.1.0" },
     { name = "speedtest-cli", specifier = ">=2.1.3" },
+    { name = "urllib3", specifier = ">=2.2.3" },
     { name = "wikipedia", specifier = ">=1.4.0" },
 ]
 
